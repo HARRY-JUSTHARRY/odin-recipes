@@ -1,12 +1,12 @@
-# odin-recipes
+# Odin Recipes
 
-- what i've learned so far?
-html boilerplate
-heading <h1>
-bold <strong>
-italic <em>
-link <a href="" target="blank" rel="noopener noreferrer">
-image <img src="" alt="" height="" weight="">
+## What I've Learned So Far
+- **HTML boilerplate**
+- **Heading**: `<h1>`
+- **Bold**: `<strong>`
+- **Italic**: `<em>`
+- **Link**: `<a href="" target="blank" rel="noopener noreferrer">`
+- **Image**: `<img src="" alt="" height="" width="">`
 
-- what the current project is?
-a main index page with links to recipes
+## What the Current Project Is
+- A main **index page** with links to recipes
