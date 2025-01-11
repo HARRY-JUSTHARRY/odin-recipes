@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, Tahoma, 'Segoe UI', Geneva, sans-serif;
+}
+
+h1 {
+    font-family: "Brush Script MT", Courier, monospace;
+    font-size: 50px;
+    background-color: grey;
+}
+
+#intro {
+    font-family: "Courier New";
+
+}
+
+h2 {
+    font-family: "Trebuchet MS";
+    color: darkcyan;
+    background-color: wheat;
+}
